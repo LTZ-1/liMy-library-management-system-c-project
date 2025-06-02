@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.Properties.Resources.resources
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\bin\Debug\MyLibraryPro.exe.config
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\bin\Debug\MyLibraryPro.exe
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\bin\Debug\MyLibraryPro.pdb
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.exe
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.pdb
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.Form1.resources
+C:\Users\user\source\repos\MyLibraryPro\MyLibraryPro\obj\Debug\MyLibraryPro.FormMain.resources
